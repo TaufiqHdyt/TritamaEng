@@ -80,7 +80,28 @@
 }
 
 /* - HR */
-hr {
+hr.hr-home {
  border: 0;
  border-top: 1px solid #fff;
+}
+
+/* SocMed */
+#socmed {
+ font-size: 25px
+}
+
+/* Page */
+hr {
+ border: 0;
+ border-top: 1px solid #00000088;
+}
+
+div.page-left {
+ border-right: 1px solid #00000088;
+}
+@media only screen and (max-width: 600px) {
+ div.page-left {
+  border: none;
+  border-top: 1px solid #00000088;
+ }
 }
