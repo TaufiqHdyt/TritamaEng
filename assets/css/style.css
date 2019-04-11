@@ -105,3 +105,27 @@ div.page-left {
   border-top: 1px solid #00000088;
  }
 }
+
+/* Project */
+.img-proj {
+ object-fit: fill;
+ height: 100%;
+ overflow: hidden;
+ background: #000000;
+ transition: .5s ease;
+}
+a > div.img-proj:hover{
+ opacity: 0.8;
+}
+
+/* Post */
+.img-head {
+ object-fit: fill;
+ height: 260px;
+ overflow: hidden;
+}
+.img-bawah {
+ object-fit: fill;
+ height: 150px;
+ overflow: hidden;
+}
