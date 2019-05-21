@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {
  right: 0;
  bottom: 0;
  left: 0;
- opacity: 0.7;
+ opacity: 0.5;
  background: linear-gradient(90deg, rgba(255, 243, 59, 1) 0%, rgba(253, 199, 12, 1) 30%, rgba(243, 144, 63, 1) 68%, rgba(237, 104, 60, 1) 88%, rgba(233, 62, 58, 1) 100%);
 }
 
