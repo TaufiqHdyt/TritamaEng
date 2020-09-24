@@ -18,6 +18,7 @@ hr.hr-home {
 main.bg-img {
  height: 100%;
  background: linear-gradient(90deg, rgba(255, 243, 59, .7) 0%, rgba(253, 199, 12, .7) 30%, rgba(243, 144, 63, .7) 68%, rgba(237, 104, 60, .7) 88%, rgba(233, 62, 58, .7) 100%), url(../img/hero.jpg) no-repeat center center;
+ background-size: cover;
  display: flex;
  align-items: center;
  justify-content: center;
