@@ -46,7 +46,7 @@ div.page-content {
 div.page-left {
  border-right: 1px solid #00000088;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
  div.page-left {
   border: none;
   border-top: 1px solid #00000088;
